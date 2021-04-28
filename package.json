@@ -5,7 +5,7 @@
   "main": "node/index.js",
   "dependencies": {
     "http-auth": "^3.2.3",
-    "http-proxy": "^1.16.2",
+    "http-proxy": "^1.18.1",
     "request": "^2.81.0"
   },
   "scripts": {
