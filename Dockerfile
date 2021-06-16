@@ -1,4 +1,4 @@
-FROM mhart/alpine-node
+FROM mhart/alpine-node:15.13.0
 ENV USER=rikka PASSWD=rikka
 EXPOSE 5005
 COPY . /data/server
